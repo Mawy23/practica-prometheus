@@ -57,7 +57,7 @@ Los dashboards están definidos en los archivos JSON:
 
 2. Levanta los servicios con Docker Compose:
 
-  docker-compose up -d
+   docker-compose up -d
 
 3. Accede a los servicios:
 
